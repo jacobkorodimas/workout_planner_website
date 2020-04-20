@@ -1,0 +1,15 @@
+body {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+
+}
+
+#titlelink,
+#titlelink:hover,
+#titlelink:visited,
+#titlelink:active {
+    text-decoration: none;
+    color: black;
+
+}
